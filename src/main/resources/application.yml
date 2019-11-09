@@ -1,0 +1,10 @@
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+  thymeleaf:
+    cache: false
+  datasource:
+    driver-class-name: 
